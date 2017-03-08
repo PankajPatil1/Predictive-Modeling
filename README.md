@@ -12,5 +12,6 @@ You have been provided the following data:
 * In addition to the Shipment data, you may choose to explore provided macro-economic factors
 * Use analysis and visualization tools of your choice
 * Evaluate accuracy, model fit etc. by holding out a sample for testing.
+
 ## DELIVERABLES ##
 Provide the forecasts for 2015-Q3 and 2015-Q4 in the specified format (file provided). These will be compared against the actuals we have for this period. Include a well-documented code that you used for the analysis.
