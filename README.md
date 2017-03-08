@@ -15,3 +15,6 @@ You have been provided the following data:
 
 ## DELIVERABLES ##
 Provide the forecasts for 2015-Q3 and 2015-Q4 in the specified format (file provided). These will be compared against the actuals we have for this period. Include a well-documented code that you used for the analysis.
+
+#### Please take a look at Battlefield.pptx for overview of analysis. ####
+#### To check actual values, please see Solutions.xlsx ####
